@@ -12,7 +12,7 @@
 body {
     margin: 0;
     font-family: "Inter";
-    background-image: url(https://baihaqi2193.github.io/Personal-site/assets/bg-image.jpg);
+    background-image: url("https://baihaqi2193.github.io/Personal-site/assets/bg-image.jpg");
     background-size: cover;
     color: #fff;
 }
