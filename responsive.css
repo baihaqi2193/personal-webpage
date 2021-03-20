@@ -1,0 +1,47 @@
+@media (max-width: 1920px) {
+    .header-right {
+        font-size: 22px;
+    }
+
+    .header-left {
+        display: flex;
+        float: left;
+    }
+
+    .header-left a {
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .logo {
+        width: 25px;
+        margin-right: 30px;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    .header-left {
+        margin-left: 150px;
+    }
+
+    .header-left a {
+        font-size: 22px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .header-right {
+        display: none;
+    }
+
+    .logo {
+        width: 18px;
+    }
+
+    .content-slide {
+        display: none;
+    }
+
+}
